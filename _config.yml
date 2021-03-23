@@ -1,14 +1,13 @@
 # Site Settings
 name: shamcode
-title: Jekflix | A blog theme for Jekyll
-description: Jekflix is a template for Jekyll inspired by Netflix and made by
-  Thiago Rossener.
+title: shamcode | for the tech suvvy
+description: The official website for the SHAMCODE tech channel.
 tags:
   - blog
-  - template
-  - jekyll
-  - theme
-  - netlify
+  - technology
+  - tech
+  - review
+  - download
 show_hero: true
 menu:
   - title: Home
@@ -19,18 +18,18 @@ menu:
     url: /contact
   - title: Feed
     url: /feed.xml
-email: youremail@test.com
-disqus_username: disqus_username
+email: shammulwa@gmail.com
+disqus_username: shamulwa
 
 
 # Social Media Settings
 # Remove the item if you don't need it
-github_username: github_username
-facebook_username: facebook_username
-twitter_username: twitter_username
-instagram_username: instagram_username
-linkedin_username: linkedin_username
-medium_username: medium_username
+github_username: shamulwa
+facebook_username: shamulwa
+twitter_username: shamulwa
+instagram_username: shamulwa
+linkedin_username: shamulwa
+medium_username: shamulwa
 
 
 # Posts Settings
