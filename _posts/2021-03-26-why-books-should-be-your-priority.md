@@ -1,6 +1,6 @@
 ---
 title: 2010 03 03 Why Books Should Be Your Priority
-date: 2021-03-26 14:42:22.804000000 Z
+date: 2021-03-26 14:42:22 Z
 ---
 
 Cas sociis natoque penatibus et magnis <a href="#">dis parturient montes</a>, nascetur ridiculus mus. *Aenean eu leo quam.* Pellentesque ornare sem lacinia quam venenatis vestibulum. Sed posuere consectetur est at lobortis. Cras mattis consectetur purus sit amet fermentum.
