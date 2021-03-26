@@ -1,5 +1,5 @@
 ---
-title: Thiagorossener
+title: SHAMxFREEZY
 position: 0
 photo: "/assets/img/uploads/profile.png"
 name: SHAMxFREEZY
