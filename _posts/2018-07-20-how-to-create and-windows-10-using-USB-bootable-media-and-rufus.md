@@ -11,7 +11,7 @@ tags:
 subtitle: Lorem ipsum dolor sit amet, consectetur adipisicing elit.
 description: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
   tempor incididunt ut labore et dolore magna aliqua.
-image: https://res.cloudinary.com/dm7h7e8xj/image/upload/v1559820489/js-code_n83m7a.jpg
+image: https://i.pinimg.com/originals/43/5e/60/435e60ef469fe2bac35883c9a93c9d56.png
 optimized_image: https://i.pinimg.com/originals/43/5e/60/435e60ef469fe2bac35883c9a93c9d56.png
 author: SHAMxFREEZY
 layout: post
