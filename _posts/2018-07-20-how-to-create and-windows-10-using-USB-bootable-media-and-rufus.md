@@ -3,6 +3,7 @@ title: how to create and to install windows 10 using USB bootable media and rufu
 date: 2018-07-20 12:26:00 Z
 categories:
 - code
+- windows
 tags:
 - platform
 - javascript
