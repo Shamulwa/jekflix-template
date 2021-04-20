@@ -1,18 +1,20 @@
 ---
-title: Birds can fly, but this you knew already
-date: 2010-09-10 12:26:40 Z
-categories:
-- life
-tags:
-- life
-- tips
+date: 2021-04-20 08:19:26
 layout: post
+title: Easier way to  install windows 10 using Rufus and a usb drive
 subtitle: Lorem ipsum dolor sit amet, consectetur adipisicing elit.
-description: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-  tempor incididunt ut labore et dolore magna aliqua.
+description: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do
+  eiusmod tempor incididunt ut labore et dolore magna aliqua.
 image: https://res.cloudinary.com/dm7h7e8xj/image/upload/v1559825145/theme16_o0seet.jpg
 optimized_image: https://res.cloudinary.com/dm7h7e8xj/image/upload/c_scale,w_380/v1559825145/theme16_o0seet.jpg
+category: tutorial
+tags:
+  - life
+  - tips
 author: thiagorossener
+paginate: true
+categories:
+  - life
 ---
 
 Cas sociis natoque penatibus et magnis <a href="#">dis parturient montes</a>, nascetur ridiculus mus. *Aenean eu leo quam.* Pellentesque ornare sem lacinia quam venenatis vestibulum. Sed posuere consectetur est at lobortis. Cras mattis consectetur purus sit amet fermentum.
