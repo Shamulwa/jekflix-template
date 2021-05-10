@@ -1,8 +1,10 @@
 ---
-layout: page
 title: About
+date: 2020-02-27 01:53:59 Z
+permalink: "/about/"
+layout: page
+menu: false
 description: Some description.
-permalink: /about/
 ---
 
 <img class="img-rounded" src="/assets/img/uploads/profile.png" alt="Thiago Rossener" width="200">

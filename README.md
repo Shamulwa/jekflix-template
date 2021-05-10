@@ -2,8 +2,6 @@
 
 # Jekflix Template
 
-Version 3.0 is [here](https://github.com/thiagorossener/jekflix-template#v300)! 🎉🎊
-
 ![Jekflix Template Cover Image](https://res.cloudinary.com/dm7h7e8xj/image/upload/v1505354182/jekflix-logo_mfngps.png)
 
 See the [demo here](https://jekflix.rossener.com/).
@@ -37,6 +35,8 @@ A theme for Jekyll inspired by Netflix panel for who loves movies and series and
 - ["Before you go" modal](https://github.com/thiagorossener/jekflix-template/wiki/Features#before-you-go-modal) *(optional)*
 - [Post recommendation](https://github.com/thiagorossener/jekflix-template/wiki/Features#post-recommendation)
 - [Netlify CMS ready](https://github.com/thiagorossener/jekflix-template/wiki/Features#netlify-cms-ready)
+- [Translations](https://github.com/thiagorossener/jekflix-template/wiki/setup#translations) **new!**
+- [Math Expressions](https://github.com/thiagorossener/jekflix-template/wiki/Features#math-expressions) *(optional)* **new!**
 
 ## SEO
 
@@ -210,6 +210,12 @@ Use the [Front Matter properties](https://github.com/thiagorossener/jekflix-temp
 > **Note:** In the case you're cloning this repo, you can use the available [script](https://github.com/thiagorossener/jekflix-template/wiki/post#creating-a-post) to generate posts automatically.
 
 ## Release notes
+
+### v3.1.0
+
+- Fixed hero URL, thanks to [@JoelSalzesson](https://github.com/JoelSalzesson)
+- Updated Google Analytics script, thanks to [@JHLeeeMe](https://github.com/JHLeeeMe)
+- Added MathJax library to render math expressions, thanks to [@XieGuochao](https://github.com/XieGuochao)
 
 ### v3.0.2
 
