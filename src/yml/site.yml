@@ -1,14 +1,12 @@
-name: Jekflix
-title: Jekflix | A blog theme for Jekyll
-description: Jekflix is a template for Jekyll inspired by Netflix and made by Thiago Rossener.
+name: shamcode
+title: shamcode | for the tech suvvy
+description: The official website for gulthe SHAMCODE tech channel.
 tags:
   - blog
-  - template
-  - jekyll
-  - theme
-  - netlify
-email: youremail@xyz.com
-disqus_username: disqus_username
+  - technology
+  - tech
+  - review
+  - download
 show_hero: true
 menu:
   - title: Home
@@ -19,3 +17,5 @@ menu:
     url: /contact
   - title: Feed
     url: /feed.xml
+email: shammulwa@gmail.com
+disqus_username: shamulwa
